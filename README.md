@@ -1,10 +1,24 @@
 Sequence Alignment with Non-Uniform Time Intervals.
 ----
+![](https://www.r-pkg.org/badges/version/sawnuti) ![](https://www.r-pkg.org/badges/last-release/sawnuti)
 
 **author**: `Alexander Murph`
 
 For questions, issues or clarifications please reach out to Murph:
 acmurph@unc.edu.
+
+Installation
+========
+
+You can install the latest version from CRAN using:
+
+``` r
+install.packages( "sawnuti" )
+```
+
+``` r
+require( "sawnuti" )
+```
 
 Overview
 ========
