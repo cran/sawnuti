@@ -1,2 +1,5 @@
-# mypackage 0.1.0
-First release!
+## **sawnuti** NEWS
+
+### **BDgraph** Version 0.1.1
+
+* Updated the 'README' with examples.
